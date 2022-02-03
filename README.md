@@ -1,2 +1,2 @@
 # sample
-data formation
+data formation of source condition of analysis
